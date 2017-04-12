@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
+title: Mobile Developer &amp Entrepreneur
+email: zholdiyarov@gmail.com
+url: https://szholdiyarov.github.io/
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "Project Manager - Mobile Developer - Entrepreneur"
+meta_author: Zholdiyarov Sanzhar
 
 # Google webmaster tools
 google_verify:
@@ -31,15 +31,13 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Sanzhar Zholdiyarov
+  location: Almaty, Kazakhstan
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
     url:
   - title: stack-overflow
@@ -51,11 +49,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Al-Farabi 21
+  - line: Almaty, Kazakhstan
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'To my wife and two lovely kids.'
 
 # Build settings
 markdown: kramdown
