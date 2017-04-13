@@ -8,5 +8,6 @@ project-date: Summer 2016 - Now
 client: AVR Management Group
 category: Android &amp IOS
 description: This app allows to quickly find restaraunts near you as well as get coupons and can help to find discounts. It also has an Augmented Reality feature which shows on your phone camera surface places near you in real-time. I am a project manager and lead developer.
+url: vk.com
 
 ---
