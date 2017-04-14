@@ -14,5 +14,6 @@ Technical description:  This application was developed by another team. I have r
                         I also have developed the augmented reality feature. 
                         The app uses device's geo location(to know where the user is) and identifies in which direction user is going(by getting the accelerometer and gyroscope readings). It also has an Augmented Reality feature which shows on your phone camera surface places near you in real-time. I am a project manager and lead developer.
 url: https://play.google.com/store/apps/details?id=ru.ltst.arahis
+url_title: Play Market
 using: java 8, swift 3.0
 ---
