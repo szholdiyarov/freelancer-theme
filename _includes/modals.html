@@ -25,13 +25,16 @@
                                     <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
                                     </strong>
                                 </li>
-                                <li>Service:
+                                <li>Platform:
                                     <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
                                     </strong>
                                 </li>
                                 <li>Link:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                    <strong><a href="{{ post.url }}">{{ post.category }}</a>
                                     </strong>
+                                </li>
+                                <li>Implemented using:
+                                    <strong>{{ post.using }}</strong>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
