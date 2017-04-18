@@ -8,7 +8,7 @@ project-date: Summer 2016 - Now
 client: AVR Management Group
 client_url: http://avrgroup.kz/
 category: Android &amp IOS
-description: This app is designed to help find nearest restaurants, promos and discounts. The main feature is the augmented reality which is automatically switches on when user presses on camera.<br/> So in the real-time user can see what are the nearest places(coolest ones) with the distance to them. Users have also ability to rate the visited places and add the comments on how they spent a time there and bookmark favourite ones.Tech stack used
+description: <h3></h3><font color="#000000">This app is designed to help find nearest restaurants, promos and discounts. The main feature is the augmented reality which is automatically switches on when user presses on camera.<br/> So in the real-time user can see what are the nearest places(coolest ones) with the distance to them. Users have also ability to rate the visited places and add the comments on how they spent a time there and bookmark favourite ones. <h4>Tech stack used <ul><li>Google Maps API</li><li>Dagger 2</li><li>Events Bus</li><li>RxJava</li><li>Android Sensors API</li></ul>
 url_market: https://play.google.com/store/apps/details?id=ru.ltst.arahis
 url_title: Play Market
 using: java 8, swift 3.0
