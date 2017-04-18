@@ -1,20 +1,20 @@
 ---
 layout: default
-modal-id: 2
-date: 2017-18-04
-img: cake.png
+modal-id: 1
+date: 2017-04-10
+img: cabin.png
 alt: image-alt
-project-date: July 2014
-client: AltoCom Ltd
-client_url: http://altocom.kz/
-category: Android
-description: Kurs Tenge is a simple application which shows up-to-the-minute exchange rates, historical charts and includes a rates calculator. This app was the first application which I shipped to the market.
- Technical description 
-  This application was written in 1 day as part of company's internal hackathon. 
-It parses rss feed(in xml) provided by api , writes new rates to file and finally present them to user. 
- At the time when I was developing this app I had no idea that magical tools like reactive programming(rxJava) and retrofit with GSONs are exist(forgive me this please I was early-junior), but I remember that I tried to follow MVC pattern. So, an activity is my controller, rates are models and views are fragments.
- To show smooth history rates diagram all calculations are done in AsynkTask(now I know that there are better ways for this). 
-url_market: https://play.google.com/store/apps/details?id=kz.altocom.kurs_tenge
+project-date: Summer 2016 - Now
+client: AVR Management Group
+client_url: http://avrgroup.kz/
+category: Android &amp IOS
+description: This app is designed to help find nearest restaurants, promos and discounts. The main feature is the augmented reality which is automatically switches on when user presses on camera. So in the real-time user can see 
+    what are the nearest places(coolest ones) with the distance to them.  Users have also ability to rate the visited places and add the comments on how they spent a time there and bookmark favourite ones.
+Technical description:  This application was developed by another team. I have refactored the code and was trying it to be flexible, clean and which follows the best-practices for android framework. 
+                        I introduced the MVP pattern and it was chosen because there are a lot of changes in UI(based on the server response) and presenters are good way to handle the logic on what to present and when.
+                        I also have developed the augmented reality feature. 
+                        The app uses device's geo location(to know where the user is) and identifies in which direction user is going(by getting the accelerometer and gyroscope readings). It also has an Augmented Reality feature which shows on your phone camera surface places near you in real-time. I am a project manager and lead developer.
+url_market: https://play.google.com/store/apps/details?id=ru.ltst.arahis
 url_title: Play Market
-using: java 7
+using: java 8, swift 3.0
 ---
