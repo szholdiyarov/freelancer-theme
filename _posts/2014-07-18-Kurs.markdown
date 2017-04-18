@@ -1,10 +1,10 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2017-04-10
 img: cabin.png
 alt: image-alt
-project-date: Summer 2016 - Now
+project-date: July 2014
 client: AVR Management Group
 client_url: http://avrgroup.kz/
 category: Android &amp IOS
