@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 4
+date: 2017-04-10
+img: cabin.png
+alt: image-alt
+project-date: Current Project
+client: Myself
+client_url: https://szholdiyarov.github.io
+category: Android &amp IOS
+description: <h3></h3><font color="#334d4d"> This is my personnal project which is currently under development. I am planning to implement the Peeber for two platforms IOS and Android. The design which you see in the screenshots is not final yet. <br/>
+</font>
+url_market: https://play.google.com/store/apps/details?id=ru.ltst.arahis
+url_title: Play Market
+using: java 8, swift 3.0
+---
