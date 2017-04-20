@@ -56,3 +56,8 @@ credits: 'To my wife and two lovely kids.'
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# post colors:
+# post text: <font color="#334d4d"> 
+# post urls in text: font color="#0a0f0f">
+
