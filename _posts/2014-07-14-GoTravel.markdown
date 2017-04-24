@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 5
+date: 2017-04-10
+img: cabin.png
+alt: image-alt
+project-date: January 2017 - Now
+client: Me
+client_url: https://szholdiyarov.github.io
+category: Android &amp IOS
+description: <h3></h3><font color="#334d4d"> GoTravel is my another project which is currently under the development. <br/> Main idea of this app is to allow users get the up-to-date tourist guidelines and calendar which will generate the trip for additional prices. We have 3 developers who are working on its implementation. We are using Firebase as a backend service where we store tour guildelines, promos, discounts etc.
+url_market: not published yet
+url_title: Play Market
+using: java 8, swift 3.0
+---
