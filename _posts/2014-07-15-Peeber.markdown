@@ -8,7 +8,7 @@ project-date: Current Project
 client: Myself
 client_url: https://szholdiyarov.github.io
 category: Android &amp IOS
-description: <h3></h3><font color="#334d4d"> This is my personnal project which is currently under development. I am planning to implement the Peeber for two platforms IOS and Android. The design which I am going to upload here is not in its final state yet. <br/> The Android version is entirely writtein Kotlin, becase I think that this programming language has a lot of advantages. The two main features of the kotlin, in my opinion, are its simplicity and full compatibility with Java. It is also null-safety and contains lambdas(even it is in Java8) and function-extensions. As a server-side service I am using a Firebase which is a powerful platform with the database, authentication and hosting. For this, RxJava is used.
+description: <h3></h3><font color="#334d4d"> This is my personnal project which is currently under development. <br/><br/>I am planning to implement the Peeber for two platforms IOS and Android. The design which I am going to upload here is not in its final state yet. <br/><br/> The Android version is entirely writtein Kotlin, becase I think that this programming language has a lot of advantages. The two main features of the kotlin, in my opinion, are its simplicity and full compatibility with Java. It is also null-safety and contains lambdas(even it is in Java8) and function-extensions. <br/><br/>As a server-side service I am using a Firebase which is a powerful platform with the database, authentication and hosting. For this, RxJava is used.
 url_market: 
 url_title: not published yet
 using: java 8, swift 3.0
