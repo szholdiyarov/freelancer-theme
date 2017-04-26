@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2017-04-10
-img: cabin.png
+img: arahis.png
 alt: image-alt
 project-date: Summer 2016 - Now
 client: AVR Management Group
