@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2017-04-18
-img: happy_drive.png
+img: happy-drive.png
 alt: image-alt
 project-date: March 2015 - May 2016
 client: Hired
