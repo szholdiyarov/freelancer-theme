@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2017-04-10
-img: peeber.png
+img: peeber_1.png
 alt: image-alt
 project-date: Current Project
 client: Myself
