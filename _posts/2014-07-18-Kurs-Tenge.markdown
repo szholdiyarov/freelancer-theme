@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2017-04-10
-img: kurs-tenge.png
+img: kurs_tenge.png
 alt: image-alt
 project-date: July 2014
 client: AltoCom Ltd
